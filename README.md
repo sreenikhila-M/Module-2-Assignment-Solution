@@ -1,3 +1,3 @@
-Web-Development-Assignment-solutions
+module-2 solution
 Coursera
 
